@@ -15,5 +15,5 @@ That is all I have to say.
 
 <script>
 var cars = ["Saab", "Volvo", "BMW"];
-document.getElementById("text").innerHTML = cars;
+document.getElementById("text").innerHTML = cars[1];
 </script>
