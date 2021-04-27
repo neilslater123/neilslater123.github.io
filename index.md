@@ -5,6 +5,7 @@ I am hosted with GitHub Pages.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+[Page 2](./page2.html).
 
 There should be whitespace between paragraphs.
 
