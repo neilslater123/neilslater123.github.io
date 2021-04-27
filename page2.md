@@ -6,7 +6,7 @@ layout: default
 
 _yay_
 
-<div id="text"></div>
+<p><div id="text"></div></p>
 
 
 
@@ -14,5 +14,5 @@ _yay_
 
 
 <script>
-document.getElementById("text").innerHTML = "Text added by JavaScript";
+document.getElementById("text").innerHTML = "Splendid text added by JavaScript";
 </script>
