@@ -16,5 +16,5 @@ That is all I have to say.
 <script>
 var cars = ["Saab", "Volvo", "BMW"];
 var randomindex = math.floor(math.random()*3);
-document.getElementById("text").innerHTML = cars[1];
+document.getElementById("text").innerHTML = cars[randomindex];
 </script>
