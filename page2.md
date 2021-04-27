@@ -8,11 +8,12 @@ _yay_
 
 <p id="text"></p>
 
-
+That is all I have to say.
 
 [back](./)
 
 
 <script>
-document.getElementById("text").innerHTML = "Splendidest text added by JavaScript";
+var cars = ["Saab", "Volvo", BMW"];
+document.getElementById("text").innerHTML = cars[1];
 </script>
