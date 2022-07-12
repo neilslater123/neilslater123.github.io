@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: Tutor
 description: Tutoring with an experienced primary school teacher
-show_downloads: true
-is_user_page: false
+show_downloads: false
