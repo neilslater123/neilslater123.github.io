@@ -1,6 +1,6 @@
-# Hello Markdown World
+# Tutoring
 
-I am hosted with GitHub Pages.
+Please contact me: amanda@w66.uk
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
